@@ -1,9 +1,7 @@
-/* div{
-  background-color: aqua;
+ div{
+  background-color: cyan;
+ }
+ div button{
   margin: 10px;
-} */
-div{
-  background-color: aqua;
-  color: red;
-  font-weight: 500;
+  background-color: #e6cd4f;
 }
